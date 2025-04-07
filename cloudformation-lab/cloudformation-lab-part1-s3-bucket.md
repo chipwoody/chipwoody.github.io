@@ -2,7 +2,7 @@
 ---
 
 # 📖 AWS CloudFormation Lab Guide (v2)  
-### Part 1: CloudFormation Basics Create s3 Buket
+### Part 1: CloudFormation Basics (S3 Bucket Creation & Deployment)
 
 ---
 

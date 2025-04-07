@@ -1,15 +1,19 @@
 # Welcome to the AWS Labs Portal - CloudFormation Lab Guide
 
-This site contains self-paced AWS lab guides to help you learn Infrastructure as Code (IaC), CloudFormation, CI/CD automation, and more.
+This lab teaches how to use AWS CloudFormation to deploy AWS resources manually and later automate deployments via CodePipeline and GitHub.
+
+✅ Goal: Push a CloudFormation YAML template to GitHub → auto-deploy using AWS CodePipeline.
 
 ## Available Labs
 
-- [Create an s3 Bucket](./cloudformation-lab-part1-s3-bucket.md)
+📦 Part 0: [IAM Setup for CloudFormation Lab](./cloudformation-lab-part0-iam-setup.md)
 
-- [s3 Bucket Encryption](./cloudformation-lab-part2-s3-bucket-encryption.md)
+📦 Part 1: [Create an s3 Bucket using CloudFormation](./cloudformation-lab-part1-s3-bucket.md)
+
+📦 Part 2: [s3 Bucket Encryption using CloudFormation](./cloudformation-lab-part2-s3-bucket-encryption.md)
 
 📦 Part 3: [Setting up CodeStar Connection (GitHub → AWS Integration)](./cloudformation-lab-part3-codestar-connection.md)  
-📦 Part 4: **Building CodePipeline using CloudFormation**  
+📦 Part 4: [Building CodePipeline using CloudFormation](./cloudformation-lab-part4-build-codepipeline.md)  
 📦 Part 5: **Pushing GitHub changes → Auto-Deploy via AWS**
 
 ---
