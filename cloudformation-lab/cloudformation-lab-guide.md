@@ -6,12 +6,12 @@ This lab teaches how to use AWS CloudFormation to deploy AWS resources manually 
 
 ## Available Labs
 
-📦 Part 0: [IAM Setup for CloudFormation Lab](./cloudformation-lab-part0-iam-setup.md)
-📦 Part 1: [Create an s3 Bucket using CloudFormation](./cloudformation-lab-part1-s3-bucket.md)
-📦 Part 2: [s3 Bucket Encryption using CloudFormation](./cloudformation-lab-part2-s3-bucket-encryption.md)
+📦 Part 0: [IAM Setup for CloudFormation Lab](./cloudformation-lab-part0-iam-setup.md)  
+📦 Part 1: [Create an s3 Bucket using CloudFormation](./cloudformation-lab-part1-s3-bucket.md)  
+📦 Part 2: [s3 Bucket Encryption using CloudFormation](./cloudformation-lab-part2-s3-bucket-encryption.md)  
 📦 Part 3: [Setting up CodeStar Connection (GitHub → AWS Integration)](./cloudformation-lab-part3-codestar-connection.md)  
 📦 Part 4: [Building CodePipeline using CloudFormation](./cloudformation-lab-part4-build-codepipeline.md)  
-📦 Part 5: [Pushing GitHub changes → Auto-Deploy via AWS](./cloudformation-lab-part5-github-auto-deploy.md)
+📦 Part 5: [Pushing GitHub changes → Auto-Deploy via AWS](./cloudformation-lab-part5-github-auto-deploy.md)  
 📦 Part 6: [Add CodeBuild Stage for Template Validation](./cloudformation-lab-part6-codebuild-validation.md)
 
 ---
